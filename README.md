@@ -1,10 +1,10 @@
 ## Group members
 
-**Zihao Wang. zihao8@ualberta.ca
+Zihao Wang. zihao8@ualberta.ca
 
-**Shuting Lin. jlin7@ualberta.ca
+Shuting Lin. jlin7@ualberta.ca
 
-**Xinyue Chen. xinyue11@ualberta.ca
+Xinyue Chen. xinyue11@ualberta.ca
 
 ## How to run our program
 There are two ways to run our program:
@@ -22,11 +22,11 @@ There are two ways to run our program:
 The other way to run it:
 1. Using the following link：
 
-**a. static camera: https://colab.research.google.com/drive/1yNn4bLu7VkBFzZZd27RH3ZOeKUUYw0nW?usp=sharing
+a. static camera: https://colab.research.google.com/drive/1yNn4bLu7VkBFzZZd27RH3ZOeKUUYw0nW?usp=sharing
 
-**b. moving camera1: https://colab.research.google.com/drive/1QTJxfRXEMmr5-zDrcZJutX9CGYMeFXiL?usp=sharing
+b. moving camera1: https://colab.research.google.com/drive/1QTJxfRXEMmr5-zDrcZJutX9CGYMeFXiL?usp=sharing
 
-**c. moving camera2: https://colab.research.google.com/drive/1_yl-l3nPbvhuvceigWAKHZkTGIbPHHnt?usp=sharing
+c. moving camera2: https://colab.research.google.com/drive/1_yl-l3nPbvhuvceigWAKHZkTGIbPHHnt?usp=sharing
 
 2. run the cell in the defult order and you could see the result
 
